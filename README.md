@@ -3,10 +3,6 @@
   https://blog.csdn.net/Sierkinhane/article/details/83308658
 
 # results:
-
-![](https://github.com/Sierkinhane/mtcnn-pytorch/blob/master/results/r_1.jpg)
-![](https://github.com/Sierkinhane/mtcnn-pytorch/blob/master/results/r_2.jpg)
-![](https://github.com/Sierkinhane/mtcnn-pytorch/blob/master/results/r_3.jpg)
 ![](https://github.com/Sierkinhane/mtcnn-pytorch/blob/master/results/r_4.jpg)
 
 
